@@ -1,7 +1,7 @@
 **Hi!👋 Thanks for stopping by!**
 
-🌱 Building AI agents, Data Automation
-
+🌱 Building AI agents, Data Automation, RAG
+ 
 B.S Computer Science @University of California, Davis
 
 Prev SWE Intern @Thermofisher, Umbo CV, Flow AI
