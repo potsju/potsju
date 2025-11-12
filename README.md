@@ -1,6 +1,6 @@
 **Hi!👋 Thanks for stopping by!**
 
-🌱 Building AI agents
+🌱 Building AI agents, Data Automation
 
 B.S Computer Science @University of California, Davis
 
