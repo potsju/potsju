@@ -1,8 +1,8 @@
 **Hi!👋 Thanks for stopping by!**
 
-🌱 Building AI agents, Data Automation, RAG
+🌱 Building Embedded Systems, AI agents, Data Automation, RAG
 
-⚙️ Learning Compilers, Embedded Systems, and Databases
+⚙️ Learning Compilers, Operating Systems, Systems Engineering, and Databases
  
 B.S Computer Science @University of California, Davis
 
