@@ -1,6 +1,6 @@
 **Hi!👋 Thanks for stopping by!**
 
-🌱 Building Embedded Systems, AI agents, Data Automation, RAG
+🌱 Building Computer Vision, AI agents, Data Automation, RAG
 
 ⚙️ Learning Compilers, Operating Systems, Systems Engineering, and Databases
  
